@@ -1,0 +1,6 @@
+runs/
+adapter_en_fr_t5/
+full_ft_en_fr_t5/
+**/checkpoint-*/
+*.pt
+*.safetensors
